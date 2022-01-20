@@ -9,3 +9,4 @@
 - скорость предсказания;
 - время обучения.
 ## Используемые библиотеки
+pandas, numpy, sklearn, lightgbm, scipy, matplotlib, seaborn, datetime
