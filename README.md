@@ -1,3 +1,7 @@
 # Yandex Practicum Projects
-Projects completed during Yandex Practicum course "Data Science". 
-This repository is for projects I have done under Yandex Practicum Data Science specialization.
+
+В этом репозитории проекты, выполненные в течение курса Data Science от Яндекс Практикума.
+
+| Markdown | Поддерживает | Таблицы |
+| :-------------------- | ---------------------: |:---------------------------:|
+| с выравниванием слева | с выравниванием справа | и с выравниванием по центру |
